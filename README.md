@@ -1,1 +1,3 @@
 # Predicting-Optimal-Locations-For-Solar-Farms
+
+Importance of clean and renewable energy has been highlighted in recent years owing to growing populations, over-consumption of natural resources, depletion of existing sources of energy and rising concerns around global climate change. A shift to reliance on solar energy has emerged as a viable alternative to fossil fuels. In India, solar energy has significantly contributed to the renewable energy sector in recent years, accounting for 92.12 GW out of the 203.18 GW of clean energy generated. Therefore,  ways of maximising the potential of solar energy remains an area requiring extensive research. 
