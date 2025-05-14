@@ -1,3 +1,28 @@
 # Predicting-Optimal-Locations-For-Solar-Farms
 
-Importance of clean and renewable energy has been highlighted in recent years owing to growing populations, over-consumption of natural resources, depletion of existing sources of energy and rising concerns around global climate change. A shift to reliance on solar energy has emerged as a viable alternative to fossil fuels. In India, solar energy has significantly contributed to the renewable energy sector in recent years, accounting for 92.12 GW out of the 203.18 GW of clean energy generated. Therefore,  ways of maximising the potential of solar energy remains an area requiring extensive research. 
+Importance of clean and renewable energy has been highlighted in recent years owing to
+growing populations, over-consumption of natural resources, depletion of existing sources of
+energy and rising concerns around global climate change. A shift to reliance on solar energy
+has emerged as a viable alternative to fossil fuels. In India, solar energy has significantly
+contributed to the renewable energy sector in recent years, accounting for 92.12 GW out of
+the 203.18 GW of clean energy generated. Therefore, identifying ways of maximizing the
+potential of solar energy remains an area requiring extensive research.
+The deployment of solar farms is a key aspect of this effort, driving studies aimed at
+predicting and selecting optimal sites for photovoltaic farm installations. Factors such as
+terrain data, geographic location, environmental elements like temperature, wind speed and
+precipitation, are often considered important.
+A review of past studies has revealed that methodologies primarily employ statistical
+methods. These models are based on subjective Multi-Criteria Decision-Making (MCDM)
+techniques, such as the Analytic Hierarchy Process (AHP) and Weighted Linear Combination
+(WLC). Studies that use artificial intelligence and machine learning are significantly less
+relevant and developed in the current state of the domain, especially in the Indian
+context.
+Here, we present a model that is driven by an AI-ML approach to predict optimality of
+locations for installation of solar farms. Our approach would enable highly precise assessments
+of potential solar farm locations, taking into account a multitude of factors such as temperature,
+wind speed, precipitation, sunshine duration, and terrain analysis through data from tools
+such as Google Earth Engine and segmentation of satellite images. We expect our study to
+contribute significantly towards efforts to achieve and improve energy efficiency, cost savings,
+and sustainability with regards to solar power. This approach would aim to enhance return on
+investment and encourage more widespread adoption of solar energy solutions.
+
