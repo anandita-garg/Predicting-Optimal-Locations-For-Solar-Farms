@@ -39,6 +39,4 @@ AHP highlighted features.
 After splitting our dataset based on temporal analysis (taking specific solar farm coordinates for training
 and test set based on their year of commission), we used the following ML algorithms to train our model : Random Forest,
 K-Nearest Neighbours, Support Vector Machines, Multi-Layer Perceptron and XGBoost. XGBoost turned out as the best 
-performing model with a Mean Squared Error of 0.0135 and an R² values of 0.7915. Further, we validated our model
-by comparing our model results with the AHP scores for existing solar farm coordinates in our dataset and we discovered
-that our model is better at returning high suitability values (88% accuracy) than standard AHP for these points (41% accuracy).
+performing model with a Mean Squared Error of 0.0135 and an R² values of 0.7915. Further, we validated our model. We also implemented SHAP for interpretability.
